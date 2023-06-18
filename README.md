@@ -1,5 +1,5 @@
 # Проекты Яндекс.Практикума
-Projects based on the Yandex.Practice "Data Science Specialist" platform
+Проекты, созданные на базе платформы Яндекс.Практикум
 
 ## Описание проектов
 | Название  | Описание | Библиотеки |
